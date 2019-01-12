@@ -56,5 +56,6 @@ int main()
 ```
 
 env:
-  OpenSSL
-  Winsock
+ - OpenSSL
+
+ - Winsock
