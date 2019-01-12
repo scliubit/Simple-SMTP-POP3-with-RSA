@@ -1,7 +1,13 @@
+
+Some Codes are from the Internet.
+
+Bugs **do** exists.
+
+
 # Simple-SMTP-POP3-with-RSA
 北京理工大学 小学期课程设计
 
-demo.cpp
+Add a ```demo.cpp``` below and enjoy.
 
 ```C++
 #include "CRecvMail.h"
