@@ -1,7 +1,7 @@
 
 Some Codes are from the Internet.
 
-Bugs **do** exists.
+Bugs **do** exist.
 
 
 # Simple-SMTP-POP3-with-RSA
